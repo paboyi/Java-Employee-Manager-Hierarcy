@@ -11,4 +11,10 @@ Who is it going to be?
 ----------------------
 IDE - An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. 
 
+----------------------
 
+To watch the video where I run & explain the codes: 
+(3) https://youtu.be/tMLoSg3_ewY
+
+
+(4) https://youtu.be/7AY4rWV4zOc
